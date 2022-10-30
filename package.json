@@ -1,0 +1,16 @@
+{
+"name": "hotgrap88",
+"theme": "hotgrap88",
+"version": "7.4.9",
+"description": "hotgrap88 สมัครสมาชิกเว็บไซต์แทงบอลเว็บตรง สมาชิกเยอะ รับโบนัสเครดิตฟรี",
+"keywords": [
+"hotgrap88",
+"hotgrap88 เครดิตฟรี",
+"hotgrap88 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/hotgrap88",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
